@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\19-01-2025\\selfStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183DD440-C204-414F-A875-8E589D051B32}|selfStudy\\selfStudy.csproj|c:\\users\\orange\\desktop\\c-sharp\\19-01-2025\\selfstudy\\selfstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183DD440-C204-414F-A875-8E589D051B32}|selfStudy\\selfStudy.csproj|solutionrelative:selfstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\19-01-2025\\selfStudy\\selfStudy\\Program.cs",
+              "RelativeDocumentMoniker": "selfStudy\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\19-01-2025\\selfStudy\\selfStudy\\Program.cs",
+              "RelativeToolTip": "selfStudy\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwJkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:32:04.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
