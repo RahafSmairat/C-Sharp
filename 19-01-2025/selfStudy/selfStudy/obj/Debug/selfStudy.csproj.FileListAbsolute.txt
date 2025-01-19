@@ -5,3 +5,10 @@ C:\Users\Orange\source\repos\selfStudy\selfStudy\obj\Debug\selfStudy.csproj.Asse
 C:\Users\Orange\source\repos\selfStudy\selfStudy\obj\Debug\selfStudy.csproj.CoreCompileInputs.cache
 C:\Users\Orange\source\repos\selfStudy\selfStudy\obj\Debug\selfStudy.exe
 C:\Users\Orange\source\repos\selfStudy\selfStudy\obj\Debug\selfStudy.pdb
+C:\Users\Orange\Desktop\C-Sharp\19-01-2025\selfStudy\selfStudy\bin\Debug\selfStudy.exe.config
+C:\Users\Orange\Desktop\C-Sharp\19-01-2025\selfStudy\selfStudy\bin\Debug\selfStudy.exe
+C:\Users\Orange\Desktop\C-Sharp\19-01-2025\selfStudy\selfStudy\bin\Debug\selfStudy.pdb
+C:\Users\Orange\Desktop\C-Sharp\19-01-2025\selfStudy\selfStudy\obj\Debug\selfStudy.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C-Sharp\19-01-2025\selfStudy\selfStudy\obj\Debug\selfStudy.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C-Sharp\19-01-2025\selfStudy\selfStudy\obj\Debug\selfStudy.exe
+C:\Users\Orange\Desktop\C-Sharp\19-01-2025\selfStudy\selfStudy\obj\Debug\selfStudy.pdb
