@@ -12,35 +12,39 @@ namespace _19_01_2025
         {
             //1- Write a C# program that accepts a double input and converts it into an int. Display both values.
             Console.WriteLine("** Exercise 1 **");
-            double number1 = 12.5;
+            Console.Write("Please Enter A Double Number: ");
+            double number1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Double number: " + number1 + "\nConverted Int: " + (int)number1);
             Console.WriteLine();
 
             //2- Write a program that uses a Convert.ToString() method to convert a number into a string and concatenate it with a sentence.
             Console.WriteLine("** Exercise 2 **");
-            int number2 = 12;
-            Console.WriteLine("December is the " + Convert.ToString(number2)+"th Month");
+            Console.Write("Please Enter A Number: ");
+            int number2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Your Number Is: " + Convert.ToString(number2));
             Console.WriteLine();
 
             //3- Create a string with a sentence. Use ToUpper() and ToLower() to display the uppercase and lowercase versions of the string.
             Console.WriteLine("** Exercise 3 **");
-            string stringVar1 = "Hello World!";
+            Console.Write("Please Enter A String: ");
+            string stringVar1 = Console.ReadLine();
             Console.WriteLine("Uppercase: " + stringVar1.ToUpper() + "\nLowercase: " + stringVar1.ToLower());
             Console.WriteLine();
 
             //4- Write a program that takes a user's full name as input and prints fname lname and length of the full name
             Console.WriteLine("** Exercise 4 **");
-            string name = "Rahaf Alsmairat";
-            string fName = name.Substring(0,5);
-            string lName = name.Substring(6);
-            Console.WriteLine(fName);
-            Console.WriteLine(lName);
-            Console.WriteLine(fName.Length + lName.Length);
+            Console.Write("Please Enter Your Full Name: ");
+            string name = Console.ReadLine();
+            string firstName = name.Substring(0,name.IndexOf(" "));
+            string lastName = name.Substring(name.IndexOf(" ")+1);
+            Console.WriteLine(firstName);
+            Console.WriteLine(lastName);
+            Console.WriteLine(firstName.Length + lastName.Length);
             Console.WriteLine();
 
             //5- Write a program that accepts two integers and prints the smaller of the two.
             Console.WriteLine("** Exercise 5 **");
-            Console.WriteLine("Enter Two Numbers:") ;
+            Console.WriteLine("Enter two numbers to get the larger:") ;
             string x = Console.ReadLine();
             string y = Console.ReadLine();
 
@@ -59,35 +63,40 @@ namespace _19_01_2025
             //6- Write a method that converts kilometers per hour to miles per hour. Use this method in a program to
             //convert and display the result.
             Console.WriteLine("** Exercise 6 **");
-            Console.WriteLine(convertToMiles(15));
+            Console.Write("Please Enter The Distance In Km: ");
+            double distance = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(convertToMiles(distance));
             Console.WriteLine();
 
             //7- Write a method that takes hours and minutes as input and returns the total number of minutes.
             Console.WriteLine("** Exercise 7 **");
-            Console.WriteLine(getMinutes(5, 37));
+            Console.WriteLine("Please Enter The Hours Then Minutes: ");
+            int hours = Convert.ToInt32(Console.ReadLine());
+            int minutes = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Total Minutes = "+getMinutes(hours, minutes));
             Console.WriteLine();
 
             //8- Write a method that accepts minutes as input and calculates the total number of hours and minutes.
             Console.WriteLine("** Exercise 8 **");
-            getTime(546);
+            Console.Write("Please Enter The Time In Minutes: ");
+            int timeMinutes = Convert.ToInt32(Console.ReadLine());
+            getTime(timeMinutes);
             Console.WriteLine();
 
             //9- Compare Two Numbers Write a program that prints:
             Console.WriteLine("** Exercise 9 **");
             Console.WriteLine("Enter Two Numbers:");
-            string a = Console.ReadLine();
-            string b  = Console.ReadLine();
 
-            int num3 = int.Parse(a);
-            int num4 = int.Parse(b);
+            int num3 = int.Parse(Console.ReadLine());
+            int num4 = int.Parse(Console.ReadLine());
 
-            string result = num3 > num4 ? "Greater" : num3 < num2 ? "Smaller" : "Equal";
+            string result = num3 > num4 ? "First Number is Greater" : num3 < num4 ? "First Number is Smaller" : "Equal";
             Console.WriteLine(result);
             Console.WriteLine();
 
             //Write a program that calculates the sum of the digits of a number using arithmetic operators and loops (no conditionals).
             Console.WriteLine("** Exercise 9 **");
-            Console.WriteLine("Enter a Number to Sum the digits:");
+            Console.Write("Enter a Number to Sum the Digits:");
             string num6 = Console.ReadLine();
             int sum = 0;
             for (int i = 0; i < num6.Length; i++)
@@ -107,7 +116,7 @@ namespace _19_01_2025
             //11- Write a program to check if a number is divisible by another number using logical and arithmetic operators.
             //Return a message "Divisible" or "Not Divisible".
             Console.WriteLine("** Exercise 11 **");
-            Console.WriteLine("Please Enter Two Numbers: ");
+            Console.WriteLine("Please Enter Two Numbers To Check If Divisible: ");
             int num8 = int.Parse(Console.ReadLine());
             int num9 = int.Parse(Console.ReadLine());
             string result2 = num8 % num9 == 0 ? "Divisible" : "Not Divisible";
@@ -141,7 +150,7 @@ namespace _19_01_2025
         {
             int hours = minutes / 60;
             int min = minutes % 60;
-            Console.WriteLine(hours + ":" + min);
+            Console.WriteLine("Time is "+ hours + ":" + min);
         }
 
         static int reverseNumber(int num)
