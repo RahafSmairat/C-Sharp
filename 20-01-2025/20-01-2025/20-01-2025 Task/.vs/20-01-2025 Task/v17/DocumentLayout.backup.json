@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\20-01-2025\\selfStudy\\20-01-2025 Task\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\20-01-2025\\20-01-2025\\20-01-2025 Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE5A29DF-AAF6-4EDC-9445-7660B8DCF7E5}|20-01-2025 Task\\20-01-2025 Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\20-01-2025\\selfstudy\\20-01-2025 task\\20-01-2025 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE5A29DF-AAF6-4EDC-9445-7660B8DCF7E5}|20-01-2025 Task\\20-01-2025 Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\20-01-2025\\20-01-2025\\20-01-2025 task\\20-01-2025 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE5A29DF-AAF6-4EDC-9445-7660B8DCF7E5}|20-01-2025 Task\\20-01-2025 Task.csproj|solutionrelative:20-01-2025 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\20-01-2025\\selfStudy\\20-01-2025 Task\\20-01-2025 Task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\20-01-2025\\20-01-2025\\20-01-2025 Task\\20-01-2025 Task\\Program.cs",
               "RelativeDocumentMoniker": "20-01-2025 Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\20-01-2025\\selfStudy\\20-01-2025 Task\\20-01-2025 Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\20-01-2025\\20-01-2025\\20-01-2025 Task\\20-01-2025 Task\\Program.cs",
               "RelativeToolTip": "20-01-2025 Task\\Program.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAMwP8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T12:14:04.526Z",
               "EditorCaption": ""

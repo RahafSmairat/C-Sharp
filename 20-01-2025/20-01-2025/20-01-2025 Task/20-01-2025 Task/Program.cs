@@ -82,6 +82,7 @@ namespace _20_01_2025_Task
             int end = int.Parse(Console.ReadLine());
             PrimesBetween(start, end);
             Console.WriteLine();
+            Console.WriteLine();
 
             //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
             Console.WriteLine("** Exercise 5 **");
