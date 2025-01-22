@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C-Sharp\22-01-2025\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Orange\Desktop\C-Sharp\22-01-2025\Test\Test\bin\Debug\Test.exe
+C:\Users\Orange\Desktop\C-Sharp\22-01-2025\Test\Test\bin\Debug\Test.pdb
+C:\Users\Orange\Desktop\C-Sharp\22-01-2025\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C-Sharp\22-01-2025\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C-Sharp\22-01-2025\Test\Test\obj\Debug\Test.exe
+C:\Users\Orange\Desktop\C-Sharp\22-01-2025\Test\Test\obj\Debug\Test.pdb

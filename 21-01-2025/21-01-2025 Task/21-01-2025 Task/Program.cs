@@ -26,7 +26,23 @@ namespace _21_01_2025_Task
         //Preoriteis
         public string Name { get { return name; } set { name = value; } }
         public int StudentId { get { return studentId; } set { studentId = value; } }
-        public int Age { get { return age; } set { age = value; } } 
+        public int Age { get { return age; } set
+            {
+                if (value < minAge)
+                {
+                    Console.WriteLine("Age Should Be More Than 18");
+                    age = minAge;
+                }
+                else if (value > maxAge)
+                {
+                    Console.WriteLine("Age Should Be At Maximum 40");
+                    age = maxAge;
+                }
+                else
+                {
+                    age = value;
+                }
+            } } 
 
         //Method to get the data
         public void GetDetails()
