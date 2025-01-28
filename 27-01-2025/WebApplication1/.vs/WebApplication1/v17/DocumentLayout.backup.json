@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A49A9D-DFAC-4C37-8C65-A3CDE03274EE}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\webapplication1\\webapplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A49A9D-DFAC-4C37-8C65-A3CDE03274EE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A49A9D-DFAC-4C37-8C65-A3CDE03274EE}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C8A49A9D-DFAC-4C37-8C65-A3CDE03274EE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A49A9D-DFAC-4C37-8C65-A3CDE03274EE}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\webapplication1\\page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C8A49A9D-DFAC-4C37-8C65-A3CDE03274EE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\WebApplication1\\home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\home.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\WebApplication1\\home.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:42:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\WebApplication1\\home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\home.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\WebApplication1\\home.aspx",
+              "RelativeToolTip": "WebApplication1\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T06:31:18.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page2.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\WebApplication1\\page2.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\page2.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\WebApplication1\\WebApplication1\\page2.aspx",
+              "RelativeToolTip": "WebApplication1\\page2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T08:25:25.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
