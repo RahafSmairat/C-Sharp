@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\booksview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\booksview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\editbooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\editbooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\editbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\editbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\files\\rigestered_users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\files\\rigestered_users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|c:\\users\\orange\\desktop\\c-sharp\\27-01-2025\\task\\task\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C414967-108D-4054-BD7A-D4E156A13339}|Task\\Task.csproj|solutionrelative:task\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "booksView.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\booksView.aspx",
-              "RelativeDocumentMoniker": "Task\\booksView.aspx",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\booksView.aspx",
-              "RelativeToolTip": "Task\\booksView.aspx",
+              "DocumentIndex": 5,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\home.aspx",
+              "RelativeDocumentMoniker": "Task\\home.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\home.aspx",
+              "RelativeToolTip": "Task\\home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-28T13:54:29.51Z",
+              "WhenOpened": "2025-01-29T21:56:23.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "editBooks.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\editBooks.aspx.cs",
-              "RelativeDocumentMoniker": "Task\\editBooks.aspx.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\editBooks.aspx.cs",
-              "RelativeToolTip": "Task\\editBooks.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBQAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "adminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\adminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Task\\adminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\adminDashboard.aspx.cs",
+              "RelativeToolTip": "Task\\adminDashboard.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:51:31.036Z",
+              "WhenOpened": "2025-01-29T21:54:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\adminDashboard.aspx",
+              "RelativeDocumentMoniker": "Task\\adminDashboard.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\adminDashboard.aspx",
+              "RelativeToolTip": "Task\\adminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-29T21:53:55.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "editBooks.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\editBooks.aspx",
-              "RelativeDocumentMoniker": "Task\\editBooks.aspx",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\editBooks.aspx",
-              "RelativeToolTip": "Task\\editBooks.aspx",
+              "Title": "rigestered_users.txt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\files\\rigestered_users.txt",
+              "RelativeDocumentMoniker": "Task\\files\\rigestered_users.txt",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\files\\rigestered_users.txt",
+              "RelativeToolTip": "Task\\files\\rigestered_users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-29T20:07:06.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\profile.aspx.cs",
+              "RelativeDocumentMoniker": "Task\\profile.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\profile.aspx.cs",
+              "RelativeToolTip": "Task\\profile.aspx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:51:51.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "profile.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\profile.aspx",
+              "RelativeDocumentMoniker": "Task\\profile.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\27-01-2025\\Task\\Task\\profile.aspx",
+              "RelativeToolTip": "Task\\profile.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-28T12:39:30.907Z",
+              "WhenOpened": "2025-01-29T19:30:05.329Z",
               "EditorCaption": ""
             }
           ]

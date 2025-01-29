@@ -1,10 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace Task
 {
@@ -28,16 +23,22 @@ namespace Task
 
             string[] registeredUsers = File.ReadAllLines(file);
 
-            foreach (string registeredUser in registeredUsers) 
+            for(int i = 0; i < registeredUsers.Length; i++)  
             {
-                string[] user = registeredUser.Split(' ');
+                string[] user = registeredUsers[i].Split(' ');
                 if (user[1] == email.Text && user[1] == "admin@gmail.com" &&  user[2] == password.Text)
                 {
+                    user[3] = "true";
+                    registeredUsers[i] = $"{user[0]} {user[1]} {user[2]} {user[3]}";
+                    File.WriteAllLines(file, registeredUsers);
                     Response.Redirect("adminDashboard.aspx");
                     return;
                 }
                     if (user[1] == email.Text && user[2] == password.Text)
                 {
+                    user[3] = "true";
+                    registeredUsers[i] = $"{user[0]} {user[1]} {user[2]} {user[3]}";
+                    File.WriteAllLines(file, registeredUsers);
                     Response.Redirect("userProfile.aspx");
                     return;
                 }

@@ -6,27 +6,29 @@
 <head runat="server">
     <title>Books</title>
     <style>
-        .inline{
+        .inline {
             display: flex;
-            flex-direction:row;
+            flex-direction: row;
             justify-content: space-evenly;
         }
-        .inline p{
-            width: 100px;
-        }
+
+            .inline p {
+                width: 100px;
+            }
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
             <div runat="server" id="booksData">
-            <div class="inline" style="background-color:lightpink; font-weight:700; border: 3px solid black">
-                <p>Book ID</p>
-                <p>Book Name</p>
-                <p>Book Type</p>
-                <p>Book Level</p>
-            </div>
-            <hr />
+                <h1 style="text-align: center">All Books</h1>
+                <div class="inline" style="background-color: lightpink; font-weight: 700; border: 3px solid black">
+                    <p>Book ID</p>
+                    <p>Book Name</p>
+                    <p>Book Type</p>
+                    <p>Book Level</p>
+                </div>
+                <hr />
             </div>
         </div>
     </form>

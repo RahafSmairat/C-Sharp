@@ -23,5 +23,10 @@ namespace Task
         {
             Response.Redirect("meetingsView.aspx");
         }
+
+        protected void profile_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("profile.aspx");
+        }
     }
 }

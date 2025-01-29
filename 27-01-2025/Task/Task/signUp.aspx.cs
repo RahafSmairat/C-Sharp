@@ -25,8 +25,19 @@ namespace Task
                 return;
             }
 
+            string[] registeredUsers = File.ReadAllLines(file);
+            foreach (string registeredUser in registeredUsers) 
+            {
+                string[] user = registeredUser.Split(' ');
+                if (user[1] == email.Text)
+                {
+                    warningMessage.Text = "User Exist Already!";
+                    warningMessage.Visible = true;
+                    return;
+                }
+            }
             using (StreamWriter sw = new StreamWriter(file,true)) {
-                sw.WriteLine($"{name.Text} {email.Text} {password.Text}");
+                sw.WriteLine($"{name.Text} {email.Text} {password.Text} false");
             }
 
             warningMessage.Text = "Rigestered Successfully!";

@@ -22,6 +22,8 @@
     <div>
         <section class="vh-100">
             <div class="container py-5 h-100">
+                <h1 style="text-align: center">Sign In</h1>
+
                 <div class="row d-flex align-items-center justify-content-center h-100">
                     <div class="col-md-8 col-lg-7 col-xl-6">
                         <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
@@ -40,7 +42,8 @@
                                 <label class="form-label" for="password">Password</label>
                                 <asp:TextBox type="password" ID="password" class="form-control form-control-lg" runat="server"></asp:TextBox>
                             </div>
-                            <asp:Label runat="server" ID="msg" Visible="false" Style="color:red;"></asp:Label><br /><br />
+                            <asp:Label runat="server" ID="msg" Visible="false" Style="color: red;"></asp:Label><br />
+                            <br />
                             <div class="d-flex justify-content-around align-items-center mb-4">
                                 <!-- Checkbox -->
                                 <div class="form-check">

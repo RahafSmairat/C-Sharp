@@ -1,5 +1,3 @@
-Rahaf rahaf@gmail.com 123
-Raneem raneem@gmail.com 345
-Tasneem tasneem@gmail.com 098
-admin admin@gmail.com 000
-Rahaf rahaf1@gmail.com 12345
+Rahaf rahaf@gmail.com 1234 false
+Sura sura@gmail.com 321 false
+Admin admin@gmail.com 000 false

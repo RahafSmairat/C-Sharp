@@ -22,7 +22,7 @@
         <div>
 
             <div runat="server" id="meetingsData">
-
+                <h1 style="text-align:center">All Meetings</h1>
                 <div class="inline" style="background-color: lightpink; font-weight: 700; border: 3px solid black">
                     <p>Room ID</p>
                     <p>Room Name</p>

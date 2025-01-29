@@ -1,10 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace Task
 {
@@ -28,10 +23,10 @@ namespace Task
             }
 
             string file = Server.MapPath("files\\books.txt");
-            string [] books = File.ReadAllLines(file);
-            foreach (string book in books) 
+            string[] books = File.ReadAllLines(file);
+            foreach (string book in books)
             {
-                string [] bookDetails = book.Split(' ');
+                string[] bookDetails = book.Split(' ');
                 if (bookDetails[0] == bookIdSearch.Text)
                 {
 
@@ -55,6 +50,11 @@ namespace Task
                     save.Visible = true;
 
                 }
+                else{
+                    msg.Text = "ID Does Not Exist!";
+                    msg.Visible = true;
+                    return;
+                }
             }
         }
 
@@ -65,13 +65,13 @@ namespace Task
 
             string file = Server.MapPath("files\\books.txt");
             string[] books = File.ReadAllLines(file);
-            for(int i = 0; i < books.Length; i++) 
+            for (int i = 0; i < books.Length; i++)
             {
                 string[] bookDetails = books[i].Split(' ');
                 if (bookDetails[0] == bookIdSearch.Text)
                 {
                     if (string.IsNullOrEmpty(bookId.Text) || string.IsNullOrEmpty(bookName.Text) || string.IsNullOrEmpty(bookType.Text) ||
-    string.IsNullOrEmpty(bookLevel.Text))
+                        string.IsNullOrEmpty(bookLevel.Text))
                     {
                         msg.Text = "Please Fill The Feilds.";
                         msg.Visible = true;

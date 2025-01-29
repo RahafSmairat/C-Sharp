@@ -49,7 +49,7 @@
                                     <hr class="mx-n3">
 
                                     <!-------------------------------->
-                                                                        <div class="row align-items-center py-3">
+                                    <div class="row align-items-center py-3">
                                         <div class="col-md-3 ps-5">
 
                                             <asp:Label Visible="false" runat="server" ID="id" class="mb-0">Book ID</asp:Label>

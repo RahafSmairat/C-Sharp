@@ -28,7 +28,18 @@ namespace Task
                 return;
             }
 
-            using (StreamWriter sw = new StreamWriter(file, true))
+            //Check If Book Exists
+            string[] books = File.ReadAllLines(file);
+            foreach (string book in books) {
+                string[] bookDetails = book.Split(' ');
+                if (bookDetails[0] == bookId.Text) {
+                    msg.Text = "ID Already Exists!";
+                    msg.Visible = true;
+                    return;
+                }
+            }
+
+                using (StreamWriter sw = new StreamWriter(file, true))
             {
                 sw.WriteLine($"\n{bookId.Text} {bookName.Text} {bookType.Text} {bookLevel.Text}");
             }
